@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nargesmalaeke
-- 👀 I’m interested in Statistics, Bayesian Regularization and Methods, High-dimensional Data, and Machine Learning
-- 🌱 I’m currently learning Bayesian Deep Learning
+- 👀 I’m interested in Statistics, Bayesian Regularization, High-dimensional Data, and Machine Learning
+- 🌱 I’m currently learning Feature Sparsity in Deep Learning
 - 💞️ I’m looking to collaborate on Machine Learning projects.
 - 📫 How to reach me : Email: n.malaeke@modares.ac.ir
 
